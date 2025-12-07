@@ -542,4 +542,226 @@ http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=679472&e
 http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=679473&extension=ts&play_token=FXG6maaXyv
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/xezertv.jpg" group-title="|AZ| AZERBAYCAN",AZ - XEZER TV
 http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=679474&extension=ts&play_token=djUTUIZe9M
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: AZTV FHD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563820&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: AZTV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563819&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ATV AZAD FHD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563818&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ATV AZAD HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563817&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: XEZER FHD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563816&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: XEZER HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563815&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ARB TV FHD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563812&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ARB TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563811&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: SPACE FHD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563814&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: SPACE HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563813&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: KANAL S TV FHD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563804&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: KANAL S TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563803&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: MEDENIYYET TV FHD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563806&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: MEDENIYYET TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563805&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ICTIMAI TV FHD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563808&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ICTIMAI TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563807&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: REAL TV FHD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563800&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: REAL TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563799&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ARB 24 TV FHD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563802&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ARB 24 TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563801&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ARB GUNES TV FHD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563796&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ARB GUNES TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563795&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: CBC TV FHD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563798&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: CBC TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563797&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: MTV AZ TV FHD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563792&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: MTV AZ TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563791&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: IDMAN TV FHD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563790&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: IDMAN TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563789&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: TMB AZ TV FHD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563794&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: TMB AZ TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563793&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: CBC SPOR TV FHD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563788&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: CBC SPOR TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563787&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: BAKU TV FHD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563786&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: BAKU TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563785&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: DUNYA TV FHD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563810&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: DUNYA TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563809&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: 9 VOLNE TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563725&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: AKTV SERIAL TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563753&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: AKTV SPORT TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563718&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: AKTV TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563752&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ALVİN TV
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563738&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: APA TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563734&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: AQRO TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563726&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ARI MUGAM TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563747&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ARI MUZIK HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563748&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ATV CINEMA TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563780&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: AYAZ TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563731&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: AZAD SOZ AZ TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563782&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: AZERI DINI 1 TV
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563714&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: AZERI DINI 2 TV
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563713&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: AZERI DINI 3 TV
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563712&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: AZERI DINI 4 TV
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563711&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: AZERI DINI 5 TV
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563710&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: AZER_SPORT 1 TV
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563717&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: AZSTAR TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563736&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: BOX CHANNEL TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563765&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: CHDTV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563767&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: CHDTV MOVIES TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563768&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: CTV AZERBYCAN TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563750&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: CTV MEYXANA TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563749&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: CTV SENEDLI TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563772&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: CTV USAQ TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563751&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: CTV VIZYON 2 TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563773&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: CTV VİZYON 1 TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563774&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: DALGA TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563776&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: DIZI TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563762&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: DOGRU TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563754&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ELTV TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563737&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ESMA TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563770&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: FTV TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563781&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: GEM AZ TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563745&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: GUNAZ TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563742&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: HADI TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563732&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: HTV AZERBAYCAN TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563766&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: HTV SINEMA TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563779&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: HZ.YUSIF TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563759&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: IDEA TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563761&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ISMAILLI TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563775&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: KANAL 35 TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563724&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: KANAL12 TV
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563721&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: KATV 1 TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563733&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: KEPEZ TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563741&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: KONUL TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563784&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: LIVE TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563739&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: MEGA MUZIK TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563756&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: MEGA SABAN TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563763&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: MEGA TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563778&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: MEGA YESILCAM TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563764&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: MEHRAB TV
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563719&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: NAXCIVAN TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563735&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: NEW TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563746&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ON4 TV
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563720&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: POP STAR TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563730&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: QAFQAZ TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563743&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: QEBELE TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563740&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: RETRO AZ TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563771&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: RIHAT TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563757&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: SEHER TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563727&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: SEHIYYE TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563728&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: SETANTA SPORT 1 TV
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563716&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: SETANTA SPORT 2 TV
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563715&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: SHOWPLUS TV
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563783&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: SİRVAN TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563777&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: TVPLUS TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563758&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: ULDUZ TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563769&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: UMID TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563755&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: UTVNEWS TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563760&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: UTVSHOW TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563744&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: VASTOK TV HD
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563729&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: VILAYET TV
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563722&extension=ts
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/azerbaijan/flag-round-250.png" group-title="AZ ⭐ AZERBAYCAN",AZ: VIP TV
+http://hsn-euserver4k.com:8080/play/live.php?mac=00:1A:79:0C:A4:3D&stream=563723&extension=ts
 
