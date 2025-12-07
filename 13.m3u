@@ -516,4 +516,30 @@ http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=1146160&
 http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=1146159&extension=ts&play_token=LbjxrZlUNL
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/Redbox.png" group-title="|AS| TURKEY | REDBOX",TR - YESILCAM
 http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=1146158&extension=ts&play_token=nvEJRA69Nt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ARB-24.jpeg" group-title="|AZ| AZERBAYCAN",AZ - ARB 24
+http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=679463&extension=ts&play_token=2MYiysbyiA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ARB-TV.png" group-title="|AZ| AZERBAYCAN",AZ - ARB TV
+http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=679464&extension=ts&play_token=iLVIKXjnDJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/atv.png" group-title="|AZ| AZERBAYCAN",AZ - ATV AZ
+http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=679465&extension=ts&play_token=4NSmpFApHj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/aztv.png" group-title="|AZ| AZERBAYCAN",AZ - AZ TV
+http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=679466&extension=ts&play_token=ezqMslnvMv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/CBC-TV.png" group-title="|AZ| AZERBAYCAN",AZ - CBC AZERBAJAN
+http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=679467&extension=ts&play_token=SPbt5Q11Pg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CBCSPORT.png" group-title="|AZ| AZERBAYCAN",AZ - CBC SPORT
+http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=1138730&extension=ts&play_token=6V0gPJPCKh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/dunyatv.jpg" group-title="|AZ| AZERBAYCAN",AZ - DUNYA TV
+http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=679468&extension=ts&play_token=LxG2PiFOaA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/ictimaitv.png" group-title="|AZ| AZERBAYCAN",AZ - ICTIMAI TV
+http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=679469&extension=ts&play_token=ddS2VDndJk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/idman.jpg" group-title="|AZ| AZERBAYCAN",AZ - IDMAN
+http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=679470&extension=ts&play_token=4T5zYwbMUM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/medeniyet.jpg" group-title="|AZ| AZERBAYCAN",AZ - MEDENIYYET TV
+http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=679471&extension=ts&play_token=vN3AAPxgvK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/REAL-TV.jpeg" group-title="|AZ| AZERBAYCAN",AZ - REAL TV
+http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=679472&extension=ts&play_token=BNAHuqGyJ6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/spacetv.jpg" group-title="|AZ| AZERBAYCAN",AZ - SPACE TV
+http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=679473&extension=ts&play_token=FXG6maaXyv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/xezertv.jpg" group-title="|AZ| AZERBAYCAN",AZ - XEZER TV
+http://serviceplus223.xyz:80/play/live.php?mac=00:1A:79:00:1C:C6&stream=679474&extension=ts&play_token=djUTUIZe9M
 
